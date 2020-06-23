@@ -1,2 +1,2 @@
 # machine_learning
-Machine learning in Python 
+clustering  k-means in Python 
